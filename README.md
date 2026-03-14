@@ -33,7 +33,7 @@ A comprehensive, trust-building landing page designed for coaching centers, tuto
 
 ## 📸 Screenshots
 *(Coming Soon)*
-![EduPulse Mockup](coaching-institute-site/tree/master/src/assets)
+![EduPulse Mockup](https://github.com/rajatsec/coaching-institute-site/blob/master/src/assets/coaching%20demo.png)
 
 ---
 
