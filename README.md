@@ -33,7 +33,7 @@ A comprehensive, trust-building landing page designed for coaching centers, tuto
 
 ## 📸 Screenshots
 *(Coming Soon)*
-![EduPulse Mockup](https://via.placeholder.com/1200x600?text=Coaching+Site+Hero)
+![EduPulse Mockup](coaching-institute-site/tree/master/src/assets)
 
 ---
 
